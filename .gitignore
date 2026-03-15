@@ -1,0 +1,13 @@
+# Ambiente virtual
+datascience/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Sistema
+.DS_Store
+Thumbs.db
